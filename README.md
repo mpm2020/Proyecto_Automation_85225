@@ -1,4 +1,4 @@
-# 🧪 Proyecto de Automatización: Proyecto_Automation_85225
+# 🧪 Proyecto_Automation_85225
 
 Framework básico de automatización de pruebas web con Java, Maven, TestNG y el patrón Page Object Model (POM).
 
